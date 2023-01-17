@@ -17,4 +17,4 @@ lilypond skye_boat_song.ly
 
 Then use the browser or a program like `zathura`, any pdf viewer would work, to view the result.
 
-this is it
+I forked from https://github.com/svenax/bagpipemusic
